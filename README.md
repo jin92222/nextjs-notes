@@ -1,0 +1,2 @@
+# nextjs-notes
+nextjs project
